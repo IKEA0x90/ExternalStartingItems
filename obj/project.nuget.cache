@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "ebmrFP7UB4MAWk2M/4kCjlMrBQfEnWg3oI9rtFMXOIj+IARc0+gZKgFGL/DDbnQgp6SySYkDddslmnUjtTHNNw==",
+  "dgSpecHash": "W1O5CmJwMlZfdXNzbmTjZlcSNFDAshMLrE/a/QELSwcLog3ELRE18EUQ0i+hztRcpPkcbxrHUukjg92A2gmgdA==",
   "success": true,
-  "projectFilePath": "D:\\Coding\\mods\\ExternalStartingItems\\ExternalStartingItems\\ExternalStartingItems.csproj",
+  "projectFilePath": "D:\\Coding\\mods\\ExternalStartingItems-main\\ExternalStartingItems-main\\ExternalStartingItems.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\mrchous\\.nuget\\packages\\bepinex.baselib\\5.4.19\\bepinex.baselib.5.4.19.nupkg.sha512",
     "C:\\Users\\mrchous\\.nuget\\packages\\bepinex.core\\5.4.19\\bepinex.core.5.4.19.nupkg.sha512",

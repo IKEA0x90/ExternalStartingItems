@@ -2815,17 +2815,16 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Coding\\mods\\ExternalStartingItems\\ExternalStartingItems\\ExternalStartingItems.csproj",
+      "projectUniqueName": "D:\\Coding\\mods\\ExternalStartingItems-main\\ExternalStartingItems-main\\ExternalStartingItems.csproj",
       "projectName": "ExternalStartingItems",
-      "projectPath": "D:\\Coding\\mods\\ExternalStartingItems\\ExternalStartingItems\\ExternalStartingItems.csproj",
+      "projectPath": "D:\\Coding\\mods\\ExternalStartingItems-main\\ExternalStartingItems-main\\ExternalStartingItems.csproj",
       "packagesPath": "C:\\Users\\mrchous\\.nuget\\packages\\",
-      "outputPath": "D:\\Coding\\mods\\ExternalStartingItems\\ExternalStartingItems\\obj\\",
+      "outputPath": "D:\\Coding\\mods\\ExternalStartingItems-main\\ExternalStartingItems-main\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
       ],
       "configFilePaths": [
-        "D:\\Coding\\mods\\ExternalStartingItems\\NuGet.Config",
         "C:\\Users\\mrchous\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
@@ -2836,8 +2835,7 @@
       "sources": {
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
         "https://api.nuget.org/v3/index.json": {},
-        "https://nuget.bepinex.dev/packages/RiskOfRain2.GameLibs": {},
-        "https://nuget.bepinex.dev/v3/index.json": {}
+        "https://nuget.bepinex.dev/packages/RiskOfRain2.GameLibs": {}
       },
       "frameworks": {
         "netstandard2.0": {

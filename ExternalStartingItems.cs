@@ -21,9 +21,9 @@ namespace ExternalStartingItems
         public const string PluginGUID = PluginAuthor + "." + PluginName;
         public const string PluginAuthor = "IKEA";
         public const string PluginName = "ExternalStartingItems";
-        public const string PluginVersion = "1.0.0";
+        public const string PluginVersion = "1.0.1";
 
-        public void Start()
+        public void Awake()
         {
             RoR2.Run.onRunStartGlobal += (run) =>
             {
@@ -37,8 +37,8 @@ namespace ExternalStartingItems
                     itemstring += ",";
                 }
                 new NetManager(itemstring, NetworkUser.readOnlyLocalPlayersList[0].netId).Send(NetworkDestination.Server);
-                //}
             };
+
         }
     }
 }

@@ -10,3 +10,15 @@ D:\Coding\mods\ExternalStartingItems\ExternalStartingItems\obj\Debug\netstandard
 D:\Coding\mods\ExternalStartingItems\ExternalStartingItems\obj\Debug\netstandard2.0\ExternalStartingItems.csproj.CoreCompileInputs.cache
 D:\Coding\mods\ExternalStartingItems\ExternalStartingItems\obj\Debug\netstandard2.0\ExternalStartingItems.dll
 D:\Coding\mods\ExternalStartingItems\ExternalStartingItems\obj\Debug\netstandard2.0\ExternalStartingItems.pdb
+D:\Coding\mods\ExternalStartingItems-main\ExternalStartingItems-main\bin\Debug\netstandard2.0\ExternalStartingItems.deps.json
+D:\Coding\mods\ExternalStartingItems-main\ExternalStartingItems-main\bin\Debug\netstandard2.0\ExternalStartingItems.dll
+D:\Coding\mods\ExternalStartingItems-main\ExternalStartingItems-main\bin\Debug\netstandard2.0\ExternalStartingItems.pdb
+D:\Coding\mods\ExternalStartingItems-main\ExternalStartingItems-main\bin\Debug\netstandard2.0\KinematicCharacterController.dll
+D:\Coding\mods\ExternalStartingItems-main\ExternalStartingItems-main\bin\Debug\netstandard2.0\MMHOOK_RoR2.dll
+D:\Coding\mods\ExternalStartingItems-main\ExternalStartingItems-main\obj\Debug\netstandard2.0\ExternalStartingItems.csproj.AssemblyReference.cache
+D:\Coding\mods\ExternalStartingItems-main\ExternalStartingItems-main\obj\Debug\netstandard2.0\ExternalStartingItems.GeneratedMSBuildEditorConfig.editorconfig
+D:\Coding\mods\ExternalStartingItems-main\ExternalStartingItems-main\obj\Debug\netstandard2.0\ExternalStartingItems.AssemblyInfoInputs.cache
+D:\Coding\mods\ExternalStartingItems-main\ExternalStartingItems-main\obj\Debug\netstandard2.0\ExternalStartingItems.AssemblyInfo.cs
+D:\Coding\mods\ExternalStartingItems-main\ExternalStartingItems-main\obj\Debug\netstandard2.0\ExternalStartingItems.csproj.CoreCompileInputs.cache
+D:\Coding\mods\ExternalStartingItems-main\ExternalStartingItems-main\obj\Debug\netstandard2.0\ExternalStartingItems.dll
+D:\Coding\mods\ExternalStartingItems-main\ExternalStartingItems-main\obj\Debug\netstandard2.0\ExternalStartingItems.pdb

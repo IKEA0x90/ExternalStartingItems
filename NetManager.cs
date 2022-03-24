@@ -58,9 +58,13 @@ namespace ExternalStartingItems
                             }
                             else 
                             {
-                                controllermaster.master.inventory.GiveEquipmentString(item.Split(';')[0]);
-                                controllermaster.master.inventory.activeEquipmentSlot = activeReverser ? (byte)0 : (byte)1;
-                                activeReverser = !activeReverser;
+                                int activeCount = int.Parse(item.Split(';')[1]);
+                                for (int i = 0; i < activeCount; i++)
+                                {
+                                    controllermaster.master.inventory.activeEquipmentSlot = activeReverser ? (byte)0 : (byte)1;
+                                    activeReverser = !activeReverser;
+                                    controllermaster.master.inventory.GiveEquipmentString(item.Split(';')[0]);
+                                }
                             }
                         }
                     }
