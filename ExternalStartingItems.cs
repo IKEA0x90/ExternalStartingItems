@@ -25,18 +25,22 @@ namespace ExternalStartingItems
 
         public void Awake()
         {
-            RoR2.Run.onRunStartGlobal += (run) =>
+            On.RoR2.Run.Start += (orig, self) =>
             {
-                NetworkingAPI.RegisterMessageType<NetManager>();
-                SaveFile save = SaveFile.readFile();
-                List<Item> items = save.activeProfile.items;
-                string itemstring = "";
-                foreach (Item item in items)
+                orig(self);
+                if (self.spawnWithPod)
                 {
-                    itemstring += item.toString();
-                    itemstring += ",";
+                    NetworkingAPI.RegisterMessageType<NetManager>();
+                    SaveFile save = SaveFile.readFile();
+                    List<Item> items = save.activeProfile.items;
+                    string itemstring = "";
+                    foreach (Item item in items)
+                    {
+                        itemstring += item.toString();
+                        itemstring += ",";
+                    }
+                    new NetManager(itemstring, NetworkUser.readOnlyLocalPlayersList[0].netId).Send(NetworkDestination.Server);
                 }
-                new NetManager(itemstring, NetworkUser.readOnlyLocalPlayersList[0].netId).Send(NetworkDestination.Server);
             };
 
         }
