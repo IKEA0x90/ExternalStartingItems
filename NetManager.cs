@@ -49,21 +49,47 @@ namespace ExternalStartingItems
                     {
                         foreach (string item in itemlist)
                         {
+                            
                             string itemID = item.Split(';')[0];
                             int itemcount = int.Parse(item.Split(';')[1]);
                             bool itemactive = bool.Parse(item.Split(';')[2]);
-                            if (!itemactive) 
+                            string mod = item.Split(';')[3];
+
+                            ModData moddata = ModData.readModData();
+
+                            if (mod != "ITEM")
                             {
-                                controllermaster.master.inventory.GiveItemString(itemID, itemcount);
-                            }
-                            else 
-                            {
-                                int activeCount = int.Parse(item.Split(';')[1]);
-                                for (int i = 0; i < activeCount; i++)
+                                ItemData i = moddata.lookup(itemID, mod);
+                                if (!i.isActive)
                                 {
-                                    controllermaster.master.inventory.activeEquipmentSlot = activeReverser ? (byte)0 : (byte)1;
-                                    activeReverser = !activeReverser;
-                                    controllermaster.master.inventory.GiveEquipmentString(item.Split(';')[0]);
+                                    controllermaster.master.inventory.GiveItem((ItemIndex)i.id, itemcount);
+                                }
+                                else
+                                {
+                                    int activeCount = int.Parse(item.Split(';')[1]);
+                                    for (int j = 0; j < activeCount; j++)
+                                    {
+                                        controllermaster.master.inventory.activeEquipmentSlot = activeReverser ? (byte)0 : (byte)1;
+                                        activeReverser = !activeReverser;
+                                        controllermaster.master.inventory.GiveItem((ItemIndex)i.id, itemcount);
+                                    }
+                                }
+                            }
+                            else
+                            {
+                                if (!itemactive)
+                                {
+                                    controllermaster.master.inventory.GiveItemString(itemID, itemcount);
+                                }
+                                else
+                                {
+                                    int activeCount = itemcount;
+                                    for (int i = 0; i < activeCount; i++)
+                                    {
+                                        controllermaster.master.inventory.activeEquipmentSlot = activeReverser ? (byte)0 : (byte)1;
+                                        activeReverser = !activeReverser;
+                                        controllermaster.master.inventory.GiveEquipmentString(itemID);
+                                    }
                                 }
                             }
                         }
