@@ -1,5 +1,5 @@
-<?xml version="1.0"?>
-<SaveFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+<?xml version="0.0"?>
+<SaveFile xmlns:xsd="http://www.w3.org/2000/XMLSchema" xmlns:xsi="http://www.w3.org/2000/XMLSchema-instance">
   <activeProfile>
     <name>Default</name>
     <items>
@@ -7,878 +7,1080 @@
         <name>Syringe</name>
         <number>0</number>
         <isActive>false</isActive>
+        <mod>ITEM</mod>
       </Item>
       <Item>
         <name>Bear</name>
         <number>0</number>
         <isActive>false</isActive>
+        <mod>ITEM</mod>
       </Item>
       <Item>
         <name>Tooth</name>
         <number>0</number>
         <isActive>false</isActive>
+        <mod>ITEM</mod>
       </Item>
       <Item>
         <name>CritGlasses</name>
         <number>0</number>
         <isActive>false</isActive>
+        <mod>ITEM</mod>
       </Item>
       <Item>
         <name>Hoof</name>
         <number>0</number>
         <isActive>false</isActive>
+        <mod>ITEM</mod>
       </Item>
       <Item>
         <name>Mushroom</name>
         <number>0</number>
         <isActive>false</isActive>
+        <mod>ITEM</mod>
       </Item>
       <Item>
         <name>Medkit</name>
         <number>0</number>
         <isActive>false</isActive>
+        <mod>ITEM</mod>
       </Item>
       <Item>
         <name>PersonalShield</name>
         <number>0</number>
         <isActive>false</isActive>
+        <mod>ITEM</mod>
       </Item>
       <Item>
         <name>HealWhileSafe</name>
         <number>0</number>
         <isActive>false</isActive>
+        <mod>ITEM</mod>
       </Item>
       <Item>
         <name>WardOnLevel</name>
         <number>0</number>
         <isActive>false</isActive>
+        <mod>ITEM</mod>
       </Item>
       <Item>
         <name>BleedOnHit</name>
         <number>0</number>
         <isActive>false</isActive>
+        <mod>ITEM</mod>
       </Item>
       <Item>
         <name>Crowbar</name>
         <number>0</number>
         <isActive>false</isActive>
+        <mod>ITEM</mod>
       </Item>
       <Item>
         <name>IgniteOnKill</name>
         <number>0</number>
         <isActive>false</isActive>
+        <mod>ITEM</mod>
       </Item>
       <Item>
         <name>StunChanceOnHit</name>
         <number>0</number>
         <isActive>false</isActive>
+        <mod>ITEM</mod>
       </Item>
       <Item>
         <name>Firework</name>
         <number>0</number>
         <isActive>false</isActive>
+        <mod>ITEM</mod>
       </Item>
       <Item>
         <name>SprintBonus</name>
         <number>0</number>
         <isActive>false</isActive>
+        <mod>ITEM</mod>
       </Item>
       <Item>
         <name>SecondarySkillMagazine</name>
         <number>0</number>
         <isActive>false</isActive>
+        <mod>ITEM</mod>
       </Item>
       <Item>
         <name>StickyBomb</name>
         <number>0</number>
         <isActive>false</isActive>
+        <mod>ITEM</mod>
       </Item>
       <Item>
         <name>ArmorPlate</name>
         <number>0</number>
         <isActive>false</isActive>
+        <mod>ITEM</mod>
       </Item>
       <Item>
         <name>FlatHealth</name>
         <number>0</number>
         <isActive>false</isActive>
+        <mod>ITEM</mod>
       </Item>
       <Item>
         <name>NearbyDamageBonus</name>
         <number>0</number>
         <isActive>false</isActive>
+        <mod>ITEM</mod>
       </Item>
       <Item>
         <name>BarrierOnKill</name>
         <number>0</number>
         <isActive>false</isActive>
+        <mod>ITEM</mod>
       </Item>
       <Item>
         <name>BossDamageBonus</name>
         <number>0</number>
         <isActive>false</isActive>
+        <mod>ITEM</mod>
       </Item>
       <Item>
         <name>TreasureCache</name>
         <number>0</number>
         <isActive>false</isActive>
+        <mod>ITEM</mod>
       </Item>
       <Item>
         <name>AttackSpeedAndMoveSpeed</name>
         <number>0</number>
         <isActive>false</isActive>
+        <mod>ITEM</mod>
       </Item>
       <Item>
         <name>HealingPotion</name>
         <number>0</number>
         <isActive>false</isActive>
+        <mod>ITEM</mod>
       </Item>
       <Item>
         <name>FragileDamageBonus</name>
         <number>0</number>
         <isActive>false</isActive>
+        <mod>ITEM</mod>
       </Item>
       <Item>
         <name>OutOfCombatArmor</name>
         <number>0</number>
         <isActive>false</isActive>
+        <mod>ITEM</mod>
       </Item>
       <Item>
         <name>GoldOnHurt</name>
         <number>0</number>
         <isActive>false</isActive>
+        <mod>ITEM</mod>
       </Item>
       <Item>
         <name>ScrapWhite</name>
         <number>0</number>
         <isActive>false</isActive>
+        <mod>ITEM</mod>
       </Item>
       <Item>
         <name>Missile</name>
         <number>0</number>
         <isActive>false</isActive>
+        <mod>ITEM</mod>
       </Item>
       <Item>
         <name>ExplodeOnDeath</name>
         <number>0</number>
         <isActive>false</isActive>
+        <mod>ITEM</mod>
       </Item>
       <Item>
         <name>Feather</name>
         <number>0</number>
         <isActive>false</isActive>
+        <mod>ITEM</mod>
       </Item>
       <Item>
         <name>ChainLightning</name>
         <number>0</number>
         <isActive>false</isActive>
+        <mod>ITEM</mod>
       </Item>
       <Item>
         <name>Seed</name>
         <number>0</number>
         <isActive>false</isActive>
+        <mod>ITEM</mod>
       </Item>
       <Item>
         <name>AttackSpeedOnCrit</name>
         <number>0</number>
         <isActive>false</isActive>
+        <mod>ITEM</mod>
       </Item>
       <Item>
         <name>Bandolier</name>
         <number>0</number>
         <isActive>false</isActive>
+        <mod>ITEM</mod>
       </Item>
       <Item>
         <name>Infusion</name>
         <number>0</number>
         <isActive>false</isActive>
+        <mod>ITEM</mod>
       </Item>
       <Item>
         <name>EquipmentMagazine</name>
         <number>0</number>
         <isActive>false</isActive>
+        <mod>ITEM</mod>
       </Item>
       <Item>
         <name>HealOnCrit</name>
         <number>0</number>
         <isActive>false</isActive>
+        <mod>ITEM</mod>
       </Item>
       <Item>
         <name>Phasing</name>
         <number>0</number>
         <isActive>false</isActive>
+        <mod>ITEM</mod>
       </Item>
       <Item>
         <name>SprintOutOfCombat</name>
         <number>0</number>
         <isActive>false</isActive>
+        <mod>ITEM</mod>
       </Item>
       <Item>
         <name>WarCryOnMultiKill</name>
         <number>0</number>
         <isActive>false</isActive>
+        <mod>ITEM</mod>
       </Item>
       <Item>
         <name>SprintArmor</name>
         <number>0</number>
         <isActive>false</isActive>
+        <mod>ITEM</mod>
       </Item>
       <Item>
         <name>IceRing</name>
         <number>0</number>
         <isActive>false</isActive>
+        <mod>ITEM</mod>
       </Item>
       <Item>
         <name>FireRing</name>
         <number>0</number>
         <isActive>false</isActive>
+        <mod>ITEM</mod>
       </Item>
       <Item>
         <name>SlowOnHit</name>
         <number>0</number>
         <isActive>false</isActive>
+        <mod>ITEM</mod>
       </Item>
       <Item>
         <name>JumpBoost</name>
         <number>0</number>
         <isActive>false</isActive>
+        <mod>ITEM</mod>
       </Item>
       <Item>
         <name>Squid</name>
         <number>0</number>
         <isActive>false</isActive>
+        <mod>ITEM</mod>
       </Item>
       <Item>
         <name>BonusGoldPackOnKill</name>
         <number>0</number>
         <isActive>false</isActive>
+        <mod>ITEM</mod>
       </Item>
       <Item>
         <name>Thorns</name>
         <number>0</number>
         <isActive>false</isActive>
+        <mod>ITEM</mod>
       </Item>
       <Item>
         <name>TPHealingNova</name>
         <number>0</number>
         <isActive>false</isActive>
+        <mod>ITEM</mod>
       </Item>
       <Item>
         <name>EnergizedOnEquipmentUse</name>
         <number>0</number>
         <isActive>false</isActive>
+        <mod>ITEM</mod>
       </Item>
       <Item>
         <name>ExecuteLowHealthElite</name>
         <number>0</number>
         <isActive>false</isActive>
+        <mod>ITEM</mod>
       </Item>
       <Item>
-        <name>40a0a0a0a0a-00a00</name>
+        <name>DeathMark</name>
         <number>0</number>
         <isActive>false</isActive>
+        <mod>ITEM</mod>
       </Item>
       <Item>
         <name>MoveSpeedOnKill</name>
         <number>0</number>
         <isActive>false</isActive>
+        <mod>ITEM</mod>
       </Item>
       <Item>
         <name>StrengthenBurn</name>
         <number>0</number>
         <isActive>false</isActive>
+        <mod>ITEM</mod>
       </Item>
       <Item>
         <name>PrimarySkillShuriken</name>
         <number>0</number>
         <isActive>false</isActive>
+        <mod>ITEM</mod>
       </Item>
       <Item>
         <name>RegeneratingScrap</name>
         <number>0</number>
         <isActive>false</isActive>
+        <mod>ITEM</mod>
       </Item>
       <Item>
         <name>FreeChest</name>
         <number>0</number>
         <isActive>false</isActive>
+        <mod>ITEM</mod>
       </Item>
       <Item>
         <name>ScrapGreen</name>
         <number>0</number>
         <isActive>false</isActive>
+        <mod>ITEM</mod>
       </Item>
       <Item>
         <name>Behemoth</name>
         <number>0</number>
         <isActive>false</isActive>
-      </Item>
-      <Item>
-        <name>ShockNearby</name>
-        <number>0</number>
-        <isActive>false</isActive>
+        <mod>ITEM</mod>
       </Item>
       <Item>
         <name>Dagger</name>
         <number>0</number>
         <isActive>false</isActive>
-      </Item>
-      <Item>
-        <name>Clover</name>
-        <number>0</number>
-        <isActive>false</isActive>
+        <mod>ITEM</mod>
       </Item>
       <Item>
         <name>Icicle</name>
         <number>0</number>
         <isActive>false</isActive>
-      </Item>
-      <Item>
-        <name>BounceNearby</name>
-        <number>0</number>
-        <isActive>false</isActive>
+        <mod>ITEM</mod>
       </Item>
       <Item>
         <name>GhostOnKill</name>
         <number>0</number>
         <isActive>false</isActive>
-      </Item>
-      <Item>
-        <name>AlienHead</name>
-        <number>0</number>
-        <isActive>false</isActive>
+        <mod>ITEM</mod>
       </Item>
       <Item>
         <name>FallBoots</name>
         <number>0</number>
         <isActive>false</isActive>
-      </Item>
-      <Item>
-        <name>Talisman</name>
-        <number>0</number>
-        <isActive>false</isActive>
+        <mod>ITEM</mod>
       </Item>
       <Item>
         <name>NovaOnHeal</name>
         <number>0</number>
         <isActive>false</isActive>
+        <mod>ITEM</mod>
       </Item>
       <Item>
         <name>ExtraLife</name>
         <number>0</number>
         <isActive>false</isActive>
+        <mod>ITEM</mod>
       </Item>
       <Item>
-        <name>ArmorReductionOnHit</name>
+        <name>Talisman</name>
         <number>0</number>
         <isActive>false</isActive>
+        <mod>ITEM</mod>
       </Item>
       <Item>
-        <name>BarrierOnOverHeal</name>
+        <name>AlienHead</name>
         <number>0</number>
         <isActive>false</isActive>
+        <mod>ITEM</mod>
       </Item>
       <Item>
-        <name>IncreaseHealing</name>
+        <name>BounceNearby</name>
         <number>0</number>
         <isActive>false</isActive>
+        <mod>ITEM</mod>
       </Item>
       <Item>
-        <name>KillEliteFrenzy</name>
+        <name>Clover</name>
         <number>0</number>
         <isActive>false</isActive>
+        <mod>ITEM</mod>
       </Item>
       <Item>
-        <name>HeadHunter</name>
+        <name>ShockNearby</name>
         <number>0</number>
         <isActive>false</isActive>
+        <mod>ITEM</mod>
       </Item>
       <Item>
         <name>UtilitySkillMagazine</name>
         <number>0</number>
         <isActive>false</isActive>
+        <mod>ITEM</mod>
       </Item>
       <Item>
-        <name>LaserTurbine</name>
+        <name>HeadHunter</name>
         <number>0</number>
         <isActive>false</isActive>
+        <mod>ITEM</mod>
       </Item>
       <Item>
-        <name>Plant</name>
+        <name>KillEliteFrenzy</name>
         <number>0</number>
         <isActive>false</isActive>
+        <mod>ITEM</mod>
       </Item>
       <Item>
-        <name>CaptainDefenseMatrix</name>
+        <name>IncreaseHealing</name>
         <number>0</number>
         <isActive>false</isActive>
+        <mod>ITEM</mod>
       </Item>
       <Item>
-        <name>CritDamage</name>
+        <name>BarrierOnOverHeal</name>
         <number>0</number>
         <isActive>false</isActive>
+        <mod>ITEM</mod>
       </Item>
       <Item>
-        <name>MoreMissile</name>
+        <name>ArmorReductionOnHit</name>
         <number>0</number>
         <isActive>false</isActive>
+        <mod>ITEM</mod>
       </Item>
       <Item>
         <name>DroneWeapons</name>
         <number>0</number>
         <isActive>false</isActive>
+        <mod>ITEM</mod>
       </Item>
       <Item>
-        <name>ScrapRed</name>
+        <name>MoreMissile</name>
         <number>0</number>
         <isActive>false</isActive>
+        <mod>ITEM</mod>
       </Item>
       <Item>
-        <name>RandomEquipmentTrigger</name>
+        <name>CritDamage</name>
         <number>0</number>
         <isActive>false</isActive>
+        <mod>ITEM</mod>
       </Item>
       <Item>
-        <name>ImmuneToDebuff</name>
+        <name>CaptainDefenseMatrix</name>
         <number>0</number>
         <isActive>false</isActive>
+        <mod>ITEM</mod>
+      </Item>
+      <Item>
+        <name>Plant</name>
+        <number>0</number>
+        <isActive>false</isActive>
+        <mod>ITEM</mod>
+      </Item>
+      <Item>
+        <name>LaserTurbine</name>
+        <number>0</number>
+        <isActive>false</isActive>
+        <mod>ITEM</mod>
       </Item>
       <Item>
         <name>PermanentDebuffOnHit</name>
         <number>0</number>
         <isActive>false</isActive>
+        <mod>ITEM</mod>
+      </Item>
+      <Item>
+        <name>ImmuneToDebuff</name>
+        <number>0</number>
+        <isActive>false</isActive>
+        <mod>ITEM</mod>
+      </Item>
+      <Item>
+        <name>RandomEquipmentTrigger</name>
+        <number>0</number>
+        <isActive>false</isActive>
+        <mod>ITEM</mod>
+      </Item>
+      <Item>
+        <name>ScrapRed</name>
+        <number>0</number>
+        <isActive>false</isActive>
+        <mod>ITEM</mod>
       </Item>
       <Item>
         <name>Knurl</name>
         <number>0</number>
         <isActive>false</isActive>
-      </Item>
-      <Item>
-        <name>Pearl</name>
-        <number>0</number>
-        <isActive>false</isActive>
+        <mod>ITEM</mod>
       </Item>
       <Item>
         <name>BeetleGland</name>
         <number>0</number>
         <isActive>false</isActive>
-      </Item>
-      <Item>
-        <name>ShinyPearl</name>
-        <number>0</number>
-        <isActive>false</isActive>
+        <mod>ITEM</mod>
       </Item>
       <Item>
         <name>TitanGoldDuringTP</name>
         <number>0</number>
         <isActive>false</isActive>
-      </Item>
-      <Item>
-        <name>NovaOnLowHealth</name>
-        <number>0</number>
-        <isActive>false</isActive>
+        <mod>ITEM</mod>
       </Item>
       <Item>
         <name>SprintWisp</name>
         <number>0</number>
         <isActive>false</isActive>
+        <mod>ITEM</mod>
       </Item>
       <Item>
         <name>ArtifactKey</name>
         <number>0</number>
         <isActive>false</isActive>
+        <mod>ITEM</mod>
       </Item>
       <Item>
-        <name>LightningStrikeOnHit</name>
+        <name>NovaOnLowHealth</name>
         <number>0</number>
         <isActive>false</isActive>
+        <mod>ITEM</mod>
       </Item>
       <Item>
-        <name>SiphonOnLowHealth</name>
+        <name>ShinyPearl</name>
         <number>0</number>
         <isActive>false</isActive>
+        <mod>ITEM</mod>
       </Item>
       <Item>
-        <name>BleedOnHitAndExplode</name>
+        <name>Pearl</name>
         <number>0</number>
         <isActive>false</isActive>
+        <mod>ITEM</mod>
       </Item>
       <Item>
         <name>FireballsOnHit</name>
         <number>0</number>
         <isActive>false</isActive>
+        <mod>ITEM</mod>
       </Item>
       <Item>
-        <name>RoboBallBuddy</name>
+        <name>BleedOnHitAndExplode</name>
         <number>0</number>
         <isActive>false</isActive>
+        <mod>ITEM</mod>
       </Item>
       <Item>
-        <name>ParentEgg</name>
+        <name>SiphonOnLowHealth</name>
         <number>0</number>
         <isActive>false</isActive>
+        <mod>ITEM</mod>
       </Item>
       <Item>
-        <name>MinorConstructOnKill</name>
+        <name>LightningStrikeOnHit</name>
         <number>0</number>
         <isActive>false</isActive>
+        <mod>ITEM</mod>
       </Item>
       <Item>
         <name>ScrapYellow</name>
         <number>0</number>
         <isActive>false</isActive>
+        <mod>ITEM</mod>
+      </Item>
+      <Item>
+        <name>MinorConstructOnKill</name>
+        <number>0</number>
+        <isActive>false</isActive>
+        <mod>ITEM</mod>
+      </Item>
+      <Item>
+        <name>ParentEgg</name>
+        <number>0</number>
+        <isActive>false</isActive>
+        <mod>ITEM</mod>
+      </Item>
+      <Item>
+        <name>RoboBallBuddy</name>
+        <number>0</number>
+        <isActive>false</isActive>
+        <mod>ITEM</mod>
       </Item>
       <Item>
         <name>CloverVoid</name>
         <number>0</number>
         <isActive>false</isActive>
+        <mod>ITEM</mod>
       </Item>
       <Item>
         <name>BleedOnHitVoid</name>
         <number>0</number>
         <isActive>false</isActive>
-      </Item>
-      <Item>
-        <name>TreasureCacheVoid</name>
-        <number>0</number>
-        <isActive>false</isActive>
+        <mod>ITEM</mod>
       </Item>
       <Item>
         <name>VoidMegaCrabItem</name>
         <number>0</number>
         <isActive>false</isActive>
+        <mod>ITEM</mod>
+      </Item>
+      <Item>
+        <name>TreasureCacheVoid</name>
+        <number>0</number>
+        <isActive>false</isActive>
+        <mod>ITEM</mod>
       </Item>
       <Item>
         <name>CritGlassesVoid</name>
         <number>0</number>
         <isActive>false</isActive>
+        <mod>ITEM</mod>
       </Item>
       <Item>
         <name>MissileVoid</name>
         <number>0</number>
         <isActive>false</isActive>
+        <mod>ITEM</mod>
       </Item>
       <Item>
         <name>EquipmentMagazineVoid</name>
         <number>0</number>
         <isActive>false</isActive>
+        <mod>ITEM</mod>
       </Item>
       <Item>
         <name>ExtraLifeVoid</name>
         <number>0</number>
         <isActive>false</isActive>
+        <mod>ITEM</mod>
       </Item>
       <Item>
         <name>SlowOnHitVoid</name>
         <number>0</number>
         <isActive>false</isActive>
+        <mod>ITEM</mod>
       </Item>
       <Item>
         <name>ElementalRingVoid</name>
         <number>0</number>
         <isActive>false</isActive>
+        <mod>ITEM</mod>
       </Item>
       <Item>
         <name>BearVoid</name>
         <number>0</number>
         <isActive>false</isActive>
+        <mod>ITEM</mod>
       </Item>
       <Item>
         <name>ChainLightningVoid</name>
         <number>0</number>
         <isActive>false</isActive>
+        <mod>ITEM</mod>
       </Item>
       <Item>
         <name>ExplodeOnDeathVoid</name>
         <number>0</number>
         <isActive>false</isActive>
+        <mod>ITEM</mod>
       </Item>
       <Item>
         <name>MushroomVoid</name>
         <number>0</number>
         <isActive>false</isActive>
+        <mod>ITEM</mod>
       </Item>
       <Item>
         <name>LunarDagger</name>
         <number>0</number>
         <isActive>false</isActive>
-      </Item>
-      <Item>
-        <name>AutoCastEquipment</name>
-        <number>0</number>
-        <isActive>false</isActive>
+        <mod>ITEM</mod>
       </Item>
       <Item>
         <name>GoldOnHit</name>
         <number>0</number>
         <isActive>false</isActive>
-      </Item>
-      <Item>
-        <name>LunarUtilityReplacement</name>
-        <number>0</number>
-        <isActive>false</isActive>
+        <mod>ITEM</mod>
       </Item>
       <Item>
         <name>ShieldOnly</name>
         <number>0</number>
         <isActive>false</isActive>
+        <mod>ITEM</mod>
+      </Item>
+      <Item>
+        <name>RepeatHeal</name>
+        <number>0</number>
+        <isActive>false</isActive>
+        <mod>ITEM</mod>
+      </Item>
+      <Item>
+        <name>LunarTrinket</name>
+        <number>0</number>
+        <isActive>false</isActive>
+        <mod>ITEM</mod>
       </Item>
       <Item>
         <name>LunarPrimaryReplacement</name>
         <number>0</number>
         <isActive>false</isActive>
+        <mod>ITEM</mod>
       </Item>
       <Item>
-        <name>30a0a0a0a0a-00a00</name>
+        <name>LunarUtilityReplacement</name>
         <number>0</number>
         <isActive>false</isActive>
+        <mod>ITEM</mod>
       </Item>
       <Item>
-        <name>0a0a0a0a0a0a0</name>
+        <name>AutoCastEquipment</name>
         <number>0</number>
         <isActive>false</isActive>
-      </Item>
-      <Item>
-        <name>LunarBadLuck</name>
-        <number>0</number>
-        <isActive>false</isActive>
-      </Item>
-      <Item>
-        <name>RandomDamageZone</name>
-        <number>0</number>
-        <isActive>false</isActive>
-      </Item>
-      <Item>
-        <name>MonstersOnShrineUse</name>
-        <number>0</number>
-        <isActive>false</isActive>
+        <mod>ITEM</mod>
       </Item>
       <Item>
         <name>FocusConvergence</name>
         <number>0</number>
         <isActive>false</isActive>
+        <mod>ITEM</mod>
       </Item>
       <Item>
-        <name>LunarSecondaryReplacement</name>
+        <name>MonstersOnShrineUse</name>
         <number>0</number>
         <isActive>false</isActive>
+        <mod>ITEM</mod>
       </Item>
       <Item>
-        <name>LunarSun</name>
+        <name>RandomDamageZone</name>
         <number>0</number>
         <isActive>false</isActive>
+        <mod>ITEM</mod>
       </Item>
       <Item>
-        <name>RandomlyLunar</name>
+        <name>LunarBadLuck</name>
         <number>0</number>
         <isActive>false</isActive>
+        <mod>ITEM</mod>
       </Item>
       <Item>
         <name>HalfSpeedDoubleHealth</name>
         <number>0</number>
         <isActive>false</isActive>
+        <mod>ITEM</mod>
       </Item>
       <Item>
-        <name>30a0a0a0a0a-05a05</name>
+        <name>RandomlyLunar</name>
         <number>0</number>
         <isActive>false</isActive>
+        <mod>ITEM</mod>
+      </Item>
+      <Item>
+        <name>LunarSun</name>
+        <number>0</number>
+        <isActive>false</isActive>
+        <mod>ITEM</mod>
+      </Item>
+      <Item>
+        <name>LunarSecondaryReplacement</name>
+        <number>0</number>
+        <isActive>false</isActive>
+        <mod>ITEM</mod>
       </Item>
       <Item>
         <name>HalfAttackSpeedHalfCooldowns</name>
         <number>0</number>
         <isActive>false</isActive>
+        <mod>ITEM</mod>
+      </Item>
+      <Item>
+        <name>LunarSpecialReplacement</name>
+        <number>0</number>
+        <isActive>false</isActive>
+        <mod>ITEM</mod>
       </Item>
       <Item>
         <name>Meteor</name>
         <number>0</number>
         <isActive>true</isActive>
+        <mod>ITEM</mod>
       </Item>
       <Item>
         <name>Blackhole</name>
         <number>0</number>
         <isActive>true</isActive>
+        <mod>ITEM</mod>
       </Item>
       <Item>
         <name>BurnNearby</name>
         <number>0</number>
         <isActive>true</isActive>
+        <mod>ITEM</mod>
       </Item>
       <Item>
         <name>BossHunter</name>
         <number>0</number>
         <isActive>true</isActive>
+        <mod>ITEM</mod>
       </Item>
       <Item>
         <name>CrippleWard</name>
         <number>0</number>
         <isActive>true</isActive>
+        <mod>ITEM</mod>
       </Item>
       <Item>
         <name>CritOnUse</name>
         <number>0</number>
         <isActive>true</isActive>
+        <mod>ITEM</mod>
       </Item>
       <Item>
         <name>Tonic</name>
         <number>0</number>
         <isActive>true</isActive>
+        <mod>ITEM</mod>
       </Item>
       <Item>
         <name>DroneBackup</name>
         <number>0</number>
         <isActive>true</isActive>
+        <mod>ITEM</mod>
       </Item>
       <Item>
         <name>CommandMissile</name>
         <number>0</number>
         <isActive>true</isActive>
+        <mod>ITEM</mod>
       </Item>
       <Item>
         <name>BFG</name>
         <number>0</number>
         <isActive>true</isActive>
+        <mod>ITEM</mod>
       </Item>
       <Item>
         <name>Fruit</name>
         <number>0</number>
         <isActive>true</isActive>
+        <mod>ITEM</mod>
       </Item>
       <Item>
         <name>GummyClone</name>
         <number>0</number>
         <isActive>true</isActive>
+        <mod>ITEM</mod>
       </Item>
       <Item>
         <name>PassiveHealing</name>
         <number>0</number>
         <isActive>true</isActive>
+        <mod>ITEM</mod>
       </Item>
       <Item>
         <name>GoldGat</name>
         <number>0</number>
         <isActive>true</isActive>
+        <mod>ITEM</mod>
       </Item>
       <Item>
         <name>MultiShopCard</name>
         <number>0</number>
         <isActive>true</isActive>
+        <mod>ITEM</mod>
       </Item>
       <Item>
         <name>Molotov</name>
         <number>0</number>
         <isActive>true</isActive>
+        <mod>ITEM</mod>
       </Item>
       <Item>
         <name>Lightning</name>
         <number>0</number>
         <isActive>true</isActive>
+        <mod>ITEM</mod>
       </Item>
       <Item>
         <name>Jetpack</name>
         <number>0</number>
         <isActive>true</isActive>
+        <mod>ITEM</mod>
       </Item>
       <Item>
         <name>Scanner</name>
         <number>0</number>
         <isActive>true</isActive>
-      </Item>
-      <Item>
-        <name>Recycle</name>
-        <number>0</number>
-        <isActive>true</isActive>
+        <mod>ITEM</mod>
       </Item>
       <Item>
         <name>Gateway</name>
         <number>0</number>
         <isActive>true</isActive>
-      </Item>
-      <Item>
-        <name>LifestealOnHit</name>
-        <number>0</number>
-        <isActive>true</isActive>
+        <mod>ITEM</mod>
       </Item>
       <Item>
         <name>Cleanse</name>
         <number>0</number>
         <isActive>true</isActive>
-      </Item>
-      <Item>
-        <name>TeamWarCry</name>
-        <number>0</number>
-        <isActive>true</isActive>
+        <mod>ITEM</mod>
       </Item>
       <Item>
         <name>FireBallDash</name>
         <number>0</number>
         <isActive>true</isActive>
-      </Item>
-      <Item>
-        <name>DeathProjectile</name>
-        <number>0</number>
-        <isActive>true</isActive>
+        <mod>ITEM</mod>
       </Item>
       <Item>
         <name>GainArmor</name>
         <number>0</number>
         <isActive>true</isActive>
-      </Item>
-      <Item>
-        <name>VendingMachine</name>
-        <number>0</number>
-        <isActive>true</isActive>
+        <mod>ITEM</mod>
       </Item>
       <Item>
         <name>Saw</name>
         <number>0</number>
         <isActive>true</isActive>
+        <mod>ITEM</mod>
       </Item>
       <Item>
         <name>EliteFireEquipment</name>
         <number>0</number>
         <isActive>true</isActive>
+        <mod>ITEM</mod>
       </Item>
       <Item>
-        <name>EliteLunarEquipment</name>
+        <name>VendingMachine</name>
         <number>0</number>
         <isActive>true</isActive>
+        <mod>ITEM</mod>
       </Item>
       <Item>
-        <name>EliteHauntedEquipment</name>
+        <name>DeathProjectile</name>
         <number>0</number>
         <isActive>true</isActive>
+        <mod>ITEM</mod>
       </Item>
       <Item>
-        <name>ElitePoisonEquipment</name>
+        <name>TeamWarCry</name>
         <number>0</number>
         <isActive>true</isActive>
+        <mod>ITEM</mod>
       </Item>
       <Item>
-        <name>EliteIceEquipment</name>
+        <name>LifestealOnHit</name>
         <number>0</number>
         <isActive>true</isActive>
+        <mod>ITEM</mod>
       </Item>
       <Item>
-        <name>EliteLightningEquipment</name>
+        <name>Recycle</name>
         <number>0</number>
         <isActive>true</isActive>
+        <mod>ITEM</mod>
       </Item>
       <Item>
         <name>EliteEarthEquipment</name>
         <number>0</number>
         <isActive>true</isActive>
+        <mod>ITEM</mod>
       </Item>
       <Item>
-        <name>QuestVolatileBattery</name>
+        <name>EliteLightningEquipment</name>
         <number>0</number>
         <isActive>true</isActive>
+        <mod>ITEM</mod>
+      </Item>
+      <Item>
+        <name>EliteIceEquipment</name>
+        <number>0</number>
+        <isActive>true</isActive>
+        <mod>ITEM</mod>
+      </Item>
+      <Item>
+        <name>ElitePoisonEquipment</name>
+        <number>0</number>
+        <isActive>true</isActive>
+        <mod>ITEM</mod>
+      </Item>
+      <Item>
+        <name>EliteHauntedEquipment</name>
+        <number>0</number>
+        <isActive>true</isActive>
+        <mod>ITEM</mod>
+      </Item>
+      <Item>
+        <name>EliteLunarEquipment</name>
+        <number>0</number>
+        <isActive>true</isActive>
+        <mod>ITEM</mod>
       </Item>
       <Item>
         <name>BossHunterConsumed</name>
         <number>0</number>
         <isActive>true</isActive>
+        <mod>ITEM</mod>
+      </Item>
+      <Item>
+        <name>QuestVolatileBattery</name>
+        <number>0</number>
+        <isActive>true</isActive>
+        <mod>ITEM</mod>
+      </Item>
+      <Item>
+        <name>CIAmethyst</name>
+        <number>0</number>
+        <isActive>true</isActive>
+        <mod>CLASSICITEMS</mod>
       </Item>
     </items>
+    <truerougelike>false</truerougelike>
+    <spawnsEnabled>false</spawnsEnabled>
+    <regularCredits>0</regularCredits>
+    <redCredits>0</redCredits>
+    <yellowCredits>0</yellowCredits>
+    <blueCredits>0</blueCredits>
+    <orangeCredits>0</orangeCredits>
+    <purpleCredits>0</purpleCredits>
+    <blackCredits>0</blackCredits>
+    <totalCreditsGained>0</totalCreditsGained>
+    <totalItemsBought>0</totalItemsBought>
+    <totalStagesCompleted>0</totalStagesCompleted>
+    <creditsPerStage>0</creditsPerStage>
+    <creditIncreaseEveryNStages>0</creditIncreaseEveryNStages>
+    <bonusPerLoop>0</bonusPerLoop>
+    <instantTeleportStartingOnStage>0</instantTeleportStartingOnStage>
+    <voidFieldsCompleted>false</voidFieldsCompleted>
+    <bonusCreditEveryNToms>0</bonusCreditEveryNToms>
+    <totalCreditsSaved>0</totalCreditsSaved>
+    <totalSpecialCreditsGained>0</totalSpecialCreditsGained>
   </activeProfile>
   <ProfileList />
+  <version>2</version>
 </SaveFile>
