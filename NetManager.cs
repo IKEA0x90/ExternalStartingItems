@@ -58,21 +58,20 @@ namespace ExternalStartingItems
                             ModData moddata = ModData.readModData();
 
                             ItemData i = moddata.lookup(itemID, mod);
-                            if (!i.isActive)
+                            if (!itemactive)
                             {
                                 controllermaster.master.inventory.GiveItem((ItemIndex)i.id, itemcount);
                             }
                             else
                             {
-                                int activeCount = int.Parse(item.Split(';')[1]);
-                                for (int j = 0; j < activeCount; j++)
+                                for (int j = 0; j < itemcount; j++)
                                 {
-                                    controllermaster.master.inventory.activeEquipmentSlot = activeReverser ? (byte)0 : (byte)1;
+                                    controllermaster.master.inventory.SetActiveEquipmentSlot(activeReverser ? (byte)0 : (byte)1);
+                                    //controllermaster.master.inventory.GiveItem((ItemIndex)i.id, 1);
+                                    controllermaster.master.inventory.SetEquipmentIndex((EquipmentIndex)i.id);
                                     activeReverser = !activeReverser;
-                                    controllermaster.master.inventory.GiveItem((ItemIndex)i.id, itemcount);
                                 }
                             }
-                         
                         }
                     }
                 }
