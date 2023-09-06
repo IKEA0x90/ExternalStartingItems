@@ -119,7 +119,7 @@ namespace ExternalStartingItems
         public SaveFile() 
         {
             this.ProfileList = new List<ActiveProfile>();
-            this.version = 2.01f;
+            this.version = 2.1f;
         }
 
         public void addItem(Item item)

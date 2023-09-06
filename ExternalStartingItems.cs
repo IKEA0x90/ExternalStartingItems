@@ -64,10 +64,10 @@ namespace ExternalStartingItems
                     NetworkingAPI.RegisterMessageType<NetManager>();
                     SaveFile save = SaveFile.readFile();
 
-                    if (save.version < 2.01f) //UPDATE ON EACH REVISION
+                    if (save.version < 2.1f) //UPDATE ON EACH REVISION
                     {
                         R2API.Utils.ChatMessage.Send("ExternalStartingItems: You are using an older version of the GUI application. Consider updating it for new functionality.\nThis message is only sent once.");
-                        save.version = 2.01f;
+                        save.version = 2.1f;
                         save.writeFile();
                     }
 
